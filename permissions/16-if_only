@@ -1,2 +1,2 @@
 #!/bin/bash
-chown if [guillaume] then vincent hello
+chown vincent hello if [guillaume]
